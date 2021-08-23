@@ -1,3 +1,12 @@
+# Information add-on
+
+This Gitlab Project originates from the work of Till Smejkal on Github.
+The original Github Project can be found on https://github.com/l3nkz/eteam-rt.
+
+Custom changes are not intended to constitue an improvement in any way. They should rather be 
+seen as an adaption to the given environmental conditions of Ubuntu Linux Xenial 
+(Kernel 4.4.0-209-generic).
+
 # E-Team Energy Measurement Runtime and Library
 
 This repository contains libraries and other runtime binaries designed to ease the usage of the
