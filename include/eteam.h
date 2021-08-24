@@ -15,8 +15,8 @@ extern "C" {
 #define SYS_start_energy __NR_start_energy
 #define SYS_stop_energy __NR_stop_energy
 #else
-#define SYS_start_energy 323
-#define SYS_stop_energy 324
+#define SYS_start_energy 326
+#define SYS_stop_energy 327
 #endif
 
 

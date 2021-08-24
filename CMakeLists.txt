@@ -7,6 +7,8 @@ cmake_minimum_required(VERSION 3.2)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib)
+set(CMAKE_CXX_COMPILER_VERSION 17)
+set(CMAKE_CXX_FLAGS "-std=c++17")
 
 # Generate the compilation database by default -- comment out if not desired
 set(CMAKE_EXPORT_COMPILE_COMMANDS On)

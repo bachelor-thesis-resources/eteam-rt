@@ -122,7 +122,7 @@ class Config
     bool auto_terminate = false;
     bool sync_start = false;
     std::string redirect = {"/dev/null"};
-    std::tuple<double,int> sampling = {1.0, 10};
+    std::tuple<double,int> sampling = std::make_tuple(1.0, 10);
     bool energy_pattern = false;
     Output info = ENERGY;
 
