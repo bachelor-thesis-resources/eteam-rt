@@ -1,5 +1,7 @@
 # Information add-on
 
+[![DOI](https://zenodo.org/badge/415662222.svg)](https://zenodo.org/badge/latestdoi/415662222)
+
 This Gitlab Project originates from the work of Till Smejkal on Github.
 The original Github Project can be found on https://github.com/l3nkz/eteam-rt.
 
